@@ -4,7 +4,7 @@ from math import sqrt
 def nthFib(n):
     res = (((1+sqrt(5))**n)-((1-sqrt(5)))**n)/(2**n*sqrt(5))
     # compute the n-th fibonacci number
-    print(int(res),'is',str(n)+'th fibonacci number')
+    print(int(res),'is',str(n)+'th fibonacci series and dude))
     # format and print the number
     
 # driver code
